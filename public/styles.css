@@ -1,6 +1,11 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background: black;
+}
+
+title {
+  color: white;
 }
 
 button, input {
@@ -35,6 +40,7 @@ tr:nth-child(even) {
 .total {
   font-size: 150%;
   text-decoration: underline;
+  color: white;
 }
 
 .form {
@@ -48,4 +54,5 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+  color: white;
 }
