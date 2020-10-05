@@ -1,7 +1,7 @@
 ![license badge](https://img.shields.io/badge/license--blue)
   # Budgeter
   ## DESCRIPTION
-  A user friend budget tracker that allows you to make deposits and withdrawls wheter you're online or offline. 
+  A simple web app to allow you to set your budget, track finances, and deposit and withdraw from a bank account that is available online/offline. 
   ## TABLE OF CONTENTS
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,12 +12,12 @@
   ## INSTALLATION
   Please run `npm i ` in the command line to install dependencies.
   ## USAGE
-  Make sure Express, Morgan, Mongoose, and Compression are installed or application will fail to load.
+  make sure to have the db setup properly for offline use. 
   ## LICENSE
   This project is licensed under the  license.
   ## CONTRIBUTING
-  Commit often and in a unique  branch. 
+  commit often
   ## TESTING
-  To run tests, please run `node index.js` in the command line
+  To run tests, please run `node server.js` in the command line
   ## QUESTIONS
   All inquiries can be sent to mfitzpatrick95@gmail.com, and be sure to check out more of my GitHub projects at [realMattyFitzz](https://www.github.com/realMattyFitzz)!
