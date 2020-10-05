@@ -1,5 +1,9 @@
 ![license badge](https://img.shields.io/badge/license--blue)
   # Budgeter
+  
+ ![Screen Shot 2020-10-05 at 12 28 22 PM](https://user-images.githubusercontent.com/67922824/95123115-51e39680-0706-11eb-8859-d616a53b324c.png)
+ 
+  
   ## DESCRIPTION
   A simple web app to allow you to set your budget, track finances, and deposit and withdraw from a bank account that is available online/offline. 
   ## TABLE OF CONTENTS
