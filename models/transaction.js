@@ -7,7 +7,7 @@ const transactionSchema = new Schema(
     name: {
       type: String,
       trim: true,
-      required: "Enter a name for transaction"
+      required: "Enter Transaction"
     },
     value: {
       type: Number,
